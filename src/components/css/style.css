@@ -14,9 +14,9 @@
    
     }
     .box {
-    width: 30%;
-    height: 60vh;
-    background-color: #61c6ee;
+    width: 35%;
+    /* height: 60vh; */
+    background-color: #93d7f2;
     margin: auto;
     border-radius: 50px;
     box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.5);
@@ -46,11 +46,11 @@
     margin-top: 20%;
     }
     .info .temp {
-    font-size: 30px;
+    /* font-size: 30px; */
     margin: 20px 0 20px 0;
     }
     .info h3 {
-    font-size: 20px;
+    /* font-size: 20px; */
     font-weight: 400;
     }
     .tempmin_max{
